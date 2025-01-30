@@ -65,7 +65,7 @@ export default function Footer() {
               </div>
               <div className='flex flex-col gap-1'>
                 <h3 className='text-base font-bold '>Official Email</h3>
-                <p className='text-xs'>costin@lonestarexteriorsolutions.com</p>
+                <p className='text-xs'>info@lonestarexteriorsolutions.com</p>
               </div>
             </div>
 
