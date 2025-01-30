@@ -10,7 +10,13 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary:'#5b99cc',
+        primaryLight:'#E8F3F9',
+        secondary:'#1b2a51',
       },
+      fontSize:{
+          'xxs':'10px'
+      }
     },
   },
   plugins: [],
