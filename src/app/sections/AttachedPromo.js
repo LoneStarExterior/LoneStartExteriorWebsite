@@ -6,7 +6,7 @@ export default function AttachedPromo() {
   return (
     <div className='flex items-center px-4 lg:px-0 py-20 attached-promo flex-col lg:flex-row bg-primary relative overflow-hidden'>
       <Image
-        src={'/images/bubble bg.png'}
+        src={'/images/bubble bg.webp'}
         alt='bubbles'
         width={1000}
         height={400}
