@@ -24,12 +24,8 @@ export default function Footer() {
           <Link href='/about-us' className='underline-animation-white w-max'>
             About Us
           </Link>
-          <Link href='/products' className='underline-animation-white w-max'>
+          <Link href='/services' className='underline-animation-white w-max'>
             Our Services
-          </Link>
-
-          <Link href='/projects' className='underline-animation-white w-max'>
-            Projects
           </Link>
           <Link href='/contact-us' className='underline-animation-white w-max'>
             Contact Us
